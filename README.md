@@ -14,33 +14,23 @@ Longer waiting times correlate with higher no-show rates.
 *Tools & Technologies*
 
 Python: Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn
-
 Power BI: Interactive dashboards & KPIs
-
 Techniques: Data preprocessing, feature engineering, SMOTE oversampling, model evaluation
 
 *Model Performance*
 
 Models tested: Decision Tree, Random Forest, XGBoost
-
 Best Models: Random Forest & XGBoost (~80% recall for no-shows, ~59% accuracy)
-
 Balanced performance for identifying high-risk patients
 
 *Deliverables*
 
 Python Notebook: Data cleaning, EDA, and machine learning models
-
 Power BI Dashboard:
-
 No-show trends over time
-
 No-show rates by weekday
-
 SMS reminder impact
-
 Interactive filters for demographics
-
 Final Report: Detailed methodology, results, and insights
 
 *Conclusion*
