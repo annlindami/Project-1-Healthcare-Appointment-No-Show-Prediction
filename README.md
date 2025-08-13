@@ -1,18 +1,14 @@
-#Project Summary – Healthcare Appointment No-Show Prediction#
+# Project Summary – Healthcare Appointment No-Show Prediction
 
 This project analyzes and predicts patient no-shows for healthcare appointments using the Kaggle Healthcare Appointment No-Show dataset (110,527 records).
 
 The goal is to identify patterns that influence missed appointments and build predictive models to help clinics optimize scheduling, reduce wait times, and improve patient care.
 
-
 *Key Insights from Analysis*
 
 SMS reminders slightly reduce no-show rates.
-
 Young adults tend to miss more appointments.
-
 Mondays and Fridays show higher no-show frequency.
-
 Longer waiting times correlate with higher no-show rates.
 
 *Tools & Technologies*
